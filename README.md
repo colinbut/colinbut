@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hello there 👋, I'm Colin But
+
+### Software/DevOps/Cloud Engineer
+
+- 🔭 I’m currently working on: __GitHub Self Hosted Runners automation on EC2/ECS Fargate__ 
+- 🌱 I’m currently learning: __Blockchain, Solidity Programming, GoLang__
+- 💬 Ask me about __DevOps, AWS Cloud, Infrastructure as Code, Docker, Kubernetes, Coding/Programming...__
+- 📫 How to reach me: https://www.linkedin.com/in/colinbut/
+- 🧧 Chinese name: __畢少謙__
+- ⚡ Fun fact: Having grew up in Scotland, I've never tasted Haggis
 
 <!--
 **colinbut/colinbut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
