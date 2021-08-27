@@ -24,7 +24,7 @@
 
 <table>
     <tr>
-        <td>DevOps</td>
+        <td>Automation Tooling</td>
         <td>
             <a href=""><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg"/></a>
@@ -33,17 +33,6 @@
             <a href=""><img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-icon.svg"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"/></a>
-        </td>
-    </tr>
-    <tr>
-        <td>Programming</td>
-        <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/java/java-original.svg"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/spring/spring-original.svg"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/python/python-original.svg"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/groovy/groovy-original.svg"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"/></a>
         </td>
     </tr>
     <tr>
@@ -58,29 +47,6 @@
             <a href=""><img src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg"/></a>
             <a href=""><img src=""/></a>
             <a href=""><img src=""/></a>
-        </td>
-    </tr>
-    <tr>
-        <td>Monitoring & Observability</td>
-        <td>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/appdynamics/appdynamics-icon.svg"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/sumologic/sumologic-icon.svg"/></a>
-        </td>
-    </tr>
-    <tr>
-        <td>IDEs</td>
-        <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/pycharm/pycharm-original.svg"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/intellij/intellij-original.svg"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/atom/atom-original.svg"/></a>
-            <a href=""><img src=""/>Sublime</a>
         </td>
     </tr>
     <tr>
@@ -103,6 +69,30 @@
             <a href=""><img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-icon.svg"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/pagerduty/pagerduty-icon.svg"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/bash/bash-original.svg"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Programming/Backend</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/java/java-original.svg"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/spring/spring-original.svg"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/python/python-original.svg"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/groovy/groovy-original.svg"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Monitoring & Observability</td>
+        <td>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/appdynamics/appdynamics-icon.svg"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/sumologic/sumologic-icon.svg"/></a>
         </td>
     </tr>
     <tr>
@@ -131,12 +121,40 @@
             <a href=""><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg"/></a>
         </td>
     </tr>
+    <tr>
+        <td>IDEs</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/pycharm/pycharm-original.svg"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/intellij/intellij-original.svg"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/atom/atom-original.svg"/></a>
+            <a href=""><img src=""/>Sublime</a>
+        </td>
+    </tr>
+    <tr>
+        <td>Testing</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/cucumber/cucumber-plain.svg"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/philadelphiapact/philadelphiapact-icon.svg"/></a>
+            <a href=""><img src=""/></a>
+            <a href=""><img src=""/></a>
+            <a href=""><img src=""/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Others/Misc</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/gradle/gradle-plain.svg"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/gitlab/gitlab-original.svg"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/git/git-original.svg"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/apachekafka/apachekafka-original.svg"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/tomcat/tomcat-original.svg"/></a>
+            <a href=""><img src=""/></a>
+        </td>
+    </tr>
 </table>
 
-|          |                              |
-|:-------------|:-------------------------------------------|
-| Programming | JavaScript React Groovy |
-| Other/Misc  | Git Postman Maven Gradle | 
 
 <br/>
 
