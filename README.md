@@ -3,7 +3,7 @@
 ### Software/DevOps/Cloud Engineer
 
 - 🔭 I’m currently working on: __GitHub Self Hosted Runners automation on EC2/ECS Fargate__ 
-- 🌱 I’m currently learning: __Blockchain, Solidity Programming, GoLang__
+- 🌱 I’m currently learning: __Blockchain, Solidity Programming, Go__
 - 💬 Ask me about __DevOps, Cloud Engineering (AWS), IAC, CI/CD, Docker, Kubernetes, Coding/Programming, Software Dev...__
 - 🧧 Chinese name: __畢少謙__
 - ⚡ Fun fact: Having grew up in Scotland, I've never tasted Haggis
