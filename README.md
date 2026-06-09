@@ -172,6 +172,12 @@
             <!-- <a href=""><img src=""/></a> -->
         </td>
     </tr>
+    <tr>
+        <td>AI Engineering</td>
+        <td>
+            <a href=""><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cursor.svg" width="40" height="40"/></a>
+        </td>
+    </tr>
 </table>
 
 
