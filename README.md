@@ -170,7 +170,7 @@
             <a href=""><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/tomcat/tomcat-original.svg" width="40" height="40"/></a>
-            <!-- <a href=""><img src=""/></a> -->
+            <a href=""><img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" width="40" height="40" title="Maven"/></a>
         </td>
     </tr>
     <tr>
