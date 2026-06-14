@@ -70,11 +70,11 @@
     <tr>
         <td>CI/CD</td>
         <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/jenkins/jenkins-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/github/github-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/circleci/circleci-plain.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/travis/travis-plain.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/jenkins/jenkins-original.svg" width="40" height="40" title="jenkins"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/github/github-original.svg" width="40" height="40" title="github actions"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/circleci/circleci-plain.svg" width="40" height="40" title="circleci"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/travis/travis-plain.svg" width="40" height="40" title="travis ci"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="40" height="40" title="gitlab ci"/></a>
         </td>
     </tr>
     <tr>
