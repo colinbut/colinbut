@@ -93,12 +93,12 @@
     <tr>
         <td>Programming/Backend</td>
         <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/java/java-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/spring/spring-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/python/python-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/groovy/groovy-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/java/java-original.svg" width="40" height="40" title="java"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/spring/spring-original.svg" width="40" height="40" title="spring"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/python/python-original.svg" width="40" height="40" title="python"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40" title="kotlin"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/groovy/groovy-original.svg" width="40" height="40" title="groovy"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="40" height="40" title="golang"/></a>
         </td>
     </tr>
     <tr>
