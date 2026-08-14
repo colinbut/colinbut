@@ -176,7 +176,7 @@
     <tr>
         <td>AI Engineering</td>
         <td>
-            <a href=""><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cursor.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cursor.svg" width="40" height="40" title="cursor"/></a>
         </td>
     </tr>
 </table>
