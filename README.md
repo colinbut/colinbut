@@ -47,8 +47,8 @@
             <a href="https://developer.hashicorp.com/terraform"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40" title="terraform"/></a>
             <a href="https://developer.hashicorp.com/packer"><img src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg" width="40" height="40" title="Packer"/></a>
             <a href="https://docs.ansible.com/"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40" title="Ansible"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vagrant/vagrant-original.svg" width="40" height="40" title="Vagrant"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" width="40" height="40" title="Chef"/></a>
+            <a href="https://developer.hashicorp.com/vagrant"><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vagrant/vagrant-original.svg" width="40" height="40" title="Vagrant"/></a>
+            <a href="https://www.chef.io/"><img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" width="40" height="40" title="Chef"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-icon.svg" width="40" height="40" title="JFrog"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" height="40" title="Nginx"/></a>
         </td>
